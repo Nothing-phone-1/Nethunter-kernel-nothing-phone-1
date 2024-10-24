@@ -1,0 +1,20 @@
+label: gpt
+label-id: DE6067D6-13EE-0263-3FB7-4437F0FC50BF
+device: /dev/block/sda
+unit: sectors
+first-lba: 6
+last-lba: 60884986
+table-length: 32
+sector-size: 4096
+
+/dev/block/sda1 : start=           6, size=           2, type=2C86E742-745E-4FDD-BFD8-B6A7AC638772, uuid=5055D657-E804-FB5C-5E82-B57E13C798EA, name="ssd"
+/dev/block/sda2 : start=           8, size=        8192, type=6C95E238-E343-4BA8-B489-8681ED22AD0B, uuid=3E95C8F8-6CB9-A974-122C-B09BEB1B12A7, name="persist"
+/dev/block/sda3 : start=        8200, size=         256, type=82ACC91F-357C-4A68-9C8F-689E1B1A23A1, uuid=288F8E61-A9EC-2EF4-7871-313083E8EA54, name="misc"
+/dev/block/sda4 : start=        8456, size=         128, type=DE7D4029-0F5B-41C8-AE7E-F6C023A02B33, uuid=38BFA786-876E-F8BE-B8A9-FE8BDCD23ECB, name="keystore"
+/dev/block/sda5 : start=        8584, size=         128, type=91B72D4D-71E0-4CBF-9B8E-236381CFF17A, uuid=54045C65-6A97-B2CD-9418-1E7AE4281AE8, name="frp"
+/dev/block/sda6 : start=        8712, size=     1572864, type=89A12DE1-5E41-4CB3-8B4C-B1441EB5DA38, uuid=A3FB4471-F625-4FA8-647B-7D44D7866BAF, name="super"
+/dev/block/sda7 : start=     1581576, size=          16, type=1344859D-3A6A-4C14-A316-9E696B3A5400, uuid=9B824086-6D96-AE2E-623E-F82EADCA8347, name="vbmeta_system_a", attrs="GUID:50,60"
+/dev/block/sda8 : start=     1581592, size=          16, type=FE3AB853-5B66-4D4A-BF85-8D90AF1C2C4A, uuid=AA461578-F3C2-C3FB-3E7F-92C7F7BAA86E, name="vbmeta_system_b", attrs="GUID:60"
+/dev/block/sda9 : start=     1581608, size=        4096, type=988A98C9-2910-4123-AAEC-1CF6B1BC28F9, uuid=5E970105-B31B-3D25-B197-6F3DAAE62E57, name="metadata"
+/dev/block/sda10 : start=     1585704, size=    39638483, type=1B81E7E6-F50D-419B-A739-2AEEF8DA3335, uuid=E134D648-3E2D-8EDF-D3AC-E6BAAF6401A3, name="userdata"
+/dev/block/sda11 : start=     41224187, type=B921B045-1DF0-41C3-AF44-4C6F280D3FAE, uuid=36daf111-ace9-4f45-840b-86de8f4cc2ca, name="linux"
